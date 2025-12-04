@@ -92,12 +92,12 @@ Ensure smooth transitions when introducing new processes, tools, or systems by a
 
 | Readiness Criteria | Status | Notes |
 |-------------------|--------|-------|
-| Stakeholder awareness | ☐ Ready ☐ At Risk ☐ Not Ready | |
-| Training completion | ☐ Ready ☐ At Risk ☐ Not Ready | |
-| System readiness | ☐ Ready ☐ At Risk ☐ Not Ready | |
-| Support readiness | ☐ Ready ☐ At Risk ☐ Not Ready | |
-| Communication readiness | ☐ Ready ☐ At Risk ☐ Not Ready | |
-| Rollback plan tested | ☐ Ready ☐ At Risk ☐ Not Ready | |
+| Stakeholder awareness | Ready / At Risk / Not Ready | [Add notes] |
+| Training completion | Ready / At Risk / Not Ready | [Add notes] |
+| System readiness | Ready / At Risk / Not Ready | [Add notes] |
+| Support readiness | Ready / At Risk / Not Ready | [Add notes] |
+| Communication readiness | Ready / At Risk / Not Ready | [Add notes] |
+| Rollback plan tested | Ready / At Risk / Not Ready | [Add notes] |
 
 - [ ] **Go/No-Go decision documented**: Decision made with key stakeholders
 - [ ] **Escalation path clear**: Know who to contact if issues arise
@@ -139,11 +139,11 @@ Ensure smooth transitions when introducing new processes, tools, or systems by a
 
 | Metric | Target | Current | Status |
 |--------|--------|---------|--------|
-| User adoption rate | [Target %] | | ☐ On Track ☐ At Risk |
-| Training completion | [Target %] | | ☐ On Track ☐ At Risk |
-| Support ticket volume | [Target trend] | | ☐ On Track ☐ At Risk |
-| User satisfaction | [Target score] | | ☐ On Track ☐ At Risk |
-| Process compliance | [Target %] | | ☐ On Track ☐ At Risk |
+| User adoption rate | [Target %] | [Enter %] | On Track / At Risk |
+| Training completion | [Target %] | [Enter %] | On Track / At Risk |
+| Support ticket volume | [Target trend] | [Enter trend] | On Track / At Risk |
+| User satisfaction | [Target score] | [Enter score] | On Track / At Risk |
+| Process compliance | [Target %] | [Enter %] | On Track / At Risk |
 
 ### Reinforcement Activities
 

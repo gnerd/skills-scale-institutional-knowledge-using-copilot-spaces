@@ -132,21 +132,21 @@ Establish consistent quality standards and verification processes for all projec
 
 | Metric | Target | Current | Status |
 |--------|--------|---------|--------|
-| Test coverage | ≥80% | | ☐ Met ☐ Not Met |
-| Critical/High defects | 0 open | | ☐ Met ☐ Not Met |
-| Code review turnaround | <24 hours | | ☐ Met ☐ Not Met |
-| Build success rate | ≥95% | | ☐ Met ☐ Not Met |
-| Documentation completeness | 100% | | ☐ Met ☐ Not Met |
-| Security scan pass | Pass | | ☐ Met ☐ Not Met |
+| Test coverage | ≥80% | [Enter %] | Met / Not Met |
+| Critical/High defects | 0 open | [Enter count] | Met / Not Met |
+| Code review turnaround | <24 hours | [Enter hours] | Met / Not Met |
+| Build success rate | ≥95% | [Enter %] | Met / Not Met |
+| Documentation completeness | 100% | [Enter %] | Met / Not Met |
+| Security scan pass | Pass | [Enter result] | Met / Not Met |
 
 ### Defect Tracking
 
 | Severity | Open | In Progress | Resolved | Target |
 |----------|------|-------------|----------|--------|
-| Critical | | | | 0 open at release |
-| High | | | | 0 open at release |
-| Medium | | | | Per team agreement |
-| Low | | | | Backlog acceptable |
+| Critical | [Count] | [Count] | [Count] | 0 open at release |
+| High | [Count] | [Count] | [Count] | 0 open at release |
+| Medium | [Count] | [Count] | [Count] | Per team agreement |
+| Low | [Count] | [Count] | [Count] | Backlog acceptable |
 
 ---
 
@@ -206,8 +206,8 @@ Establish consistent quality standards and verification processes for all projec
 
 | Document | Reviewer | Date | Approved |
 |----------|----------|------|----------|
-| [Document name] | | | ☐ Yes ☐ No |
-| [Document name] | | | ☐ Yes ☐ No |
+| [Document name] | [Name] | [Date] | Yes / No |
+| [Document name] | [Name] | [Date] | Yes / No |
 
 ### Release Quality Sign-off
 
