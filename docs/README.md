@@ -28,11 +28,17 @@ Our projects follow a structured lifecycle:
 
 | Role | Key Responsibilities |
 |------|---------------------|
+| **Project Sponsor** | Provides strategic direction, approves budgets and resources, resolves high-level conflicts |
 | **Project Manager (PM)** | Coordinates delivery, schedules, risk, and communications |
 | **Product Manager (PdM)** | Defines outcomes, prioritizes backlog, and measures success |
+| **Business Analyst** | Gathers requirements, conducts stakeholder interviews, ensures solution meets business needs |
+| **Communications Lead** | Develops communication plans, ensures consistent messaging across stakeholders |
+| **Change Manager** | Manages transition plans, stakeholder impacts, and training for new processes |
+| **Quality Assurance Lead** | Oversees testing and validation, ensures process compliance, reports on quality metrics |
 | **Developers** | Implement features, collaborate on design and testability |
-| **QA/Testing** | Validate quality and acceptance criteria |
 | **Stakeholders** | Provide inputs and approvals |
+
+For detailed role descriptions, responsibilities, and interaction patterns, see [Roles & Personas](octoacme-roles-and-personas.md).
 
 ### Communication Strategies
 
@@ -54,6 +60,8 @@ Our projects follow a structured lifecycle:
 
 ## Document Index
 
+### Process Documentation
+
 | Document | Description |
 |----------|-------------|
 | [Project Management Overview](octoacme-project-management-overview.md) | Introduction to how OctoAcme runs projects, including principles, roles, and artifacts |
@@ -64,6 +72,15 @@ Our projects follow a structured lifecycle:
 | [Release & Deployment Guide](octoacme-release-and-deployment.md) | Standardized release processes to reduce risk and improve observability |
 | [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Capturing learnings and converting them into actionable improvements |
 | [Roles & Personas](octoacme-roles-and-personas.md) | Detailed definitions of roles and responsibilities used in OctoAcme projects |
+
+### Checklists and Templates
+
+| Document | Description |
+|----------|-------------|
+| [Role Assignment and Onboarding Checklist](role-assignment-onboarding-checklist.md) | Structured approach for assigning roles and onboarding new team members |
+| [Communications Plan Template](communications-plan-template.md) | Template for developing project communication plans |
+| [Change Management Checklist](change-management-checklist.md) | Checklist for managing organizational changes and process rollouts |
+| [Quality Assurance Checklist](quality-assurance-checklist.md) | Quality standards and verification processes for deliverables and documentation |
 
 ---
 
